@@ -1,0 +1,10 @@
+{
+  "format": "carnet",
+  "version": 1,
+  "kdf": {
+    "name": "PBKDF2-SHA256",
+    "iterations": 1000000,
+    "salt": "QdXDz0+GX+KxR8pfyCM2LQ=="
+  },
+  "check": "Q1YxANNv5iyiTAwut/8i0+aFoLL41pIANe3U7dkslsUzHxCVCe8f9GkiY0cptUpq7OxnVZWOO6gITxHVKw=="
+}
